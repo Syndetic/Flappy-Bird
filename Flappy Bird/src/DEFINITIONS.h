@@ -40,7 +40,7 @@
 #define PIPE_MOVEMENT_SPEED 300.0f
 #define PIPE_SPAWN_FREQUENCY 1.0f //in seconds
 #define GRAVITY 350.0f
-#define FLYING_SPEED 400.0f
+#define FLYING_SPEED 430.0f
 #define FLYING_DURATION 0.2f
 #define ROTATION_SPEED 100.0f
 
